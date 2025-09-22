@@ -7,12 +7,12 @@ The resources here provide both the finalized dictionary itself and detailed doc
 
 ## Contents
 
-- **Cleaned_PERMA_H_Dictionary.xls**  
+- [**Cleaned_PERMA_H_Dictionary.xls**](https://github.com/mahdimunsi/PERMA-SOM/blob/main/DHNB2025/Dictionary/Cleaned_PERMA_H_Dictionary.xls)  
   The cleaned Finnish PERMA+H dictionary.  
   - Organized by category (Positive Emotion, Engagement, Relationships, Meaning, Accomplishment, Health).  
 
 
-- **Supplementary Document - Dictionary.pdf**  
+- [**Supplementary Document - Dictionary.pdf**](https://github.com/mahdimunsi/PERMA-SOM/blob/main/DHNB2025/Dictionary/Supplementary%20Document%20-%20Dictionary.pdf)  
   A short note describing how the dictionary was generated and validated.  
   - Details on word list generation and feature extraction.  
   - Expert justification for the design choice of **100 words per category**.
